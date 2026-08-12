@@ -38,13 +38,14 @@ const usageKey = ref(null)
 
 function loadUsageKey() {
   axios
-    .get('https://api.gbif.org/v1/species/match', {
+    .get('https://api.gbif.org/v2/species/match', {
       params: {
-        name: props.taxon.expanded_name
+        scientificName: props.taxon.expanded_name,
+        checklistKey: '7ddf754f-d193-4cc9-b351-99906754a03b'
       }
     })
     .then(({ data }) => {
-      usageKey.value = data?.usageKey
+      usageKey.value = data?.usage?.key
     })
 }
 
