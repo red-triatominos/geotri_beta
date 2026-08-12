@@ -1,6 +1,5 @@
-# Project metadata
-
-project_name: My project
-project_citation:
-project_url:
-project_authors:
+---
+  project_name: GeoTri
+  project_citation: GeoTri
+  project_url: https://geotri.cepave.edu.ar
+  project_authors: Laboratorio de Triatominos (CEPAVE)

@@ -1,6 +1,4 @@
 ---
-# SEO and page metadata
-
 metadata:
   - name: description
     content: TaxonPages is a tool to serve taxon pages.

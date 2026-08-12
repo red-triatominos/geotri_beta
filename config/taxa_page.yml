@@ -1,0 +1,25 @@
+taxa_page:
+  overview:
+    panels:
+      - - - panel:intro
+      - - - panel:gallery
+          - panel:type
+          - panel:type-specimen
+          - panel:content
+          - panel:nomenclature
+          - panel:nomenclature-references
+
+        - - panel:map-geotri
+          - panel:gbif
+          - panel:descendants
+          - panel:keys
+          - panel:statistics
+          - panel:sounds
+  inaturalist:
+    label: 'iNaturalist'
+    rank_group: ['GenusGroup', 'SpeciesGroup']
+    panels:
+      - - - id: panel:inaturalist
+            bind:
+              parameters:
+                taxon_id: 48959 # Reduviidae

@@ -1,17 +1,9 @@
 ---
-# Navigation header configuration
+  header_logo_url: /logo-geotri.webp
+  header_logo_text: GeoTri (BETA)
+  header_links:
+    - label: Home
+      link: /
 
-header_logo_url: ''
-header_logo_text: 'My project'
-header_links:
-  - label: Home
-    link: /
-
-  - label: Search DwC
-    link: /resources/tw/filter/dwc_otus
-
-  - label: Bibliography
-    link: /resources/tw/filter/bibliography
-
-  - label: About
-    link: /about
+    - label: About
+      link: /about
