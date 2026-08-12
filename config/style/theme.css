@@ -1,7 +1,7 @@
-@import"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,900;1,100;1,400&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-  --font-main: Roboto,sans-serif;
+  --tp-font-main: 'Roboto', system-ui, sans-serif;
   --tp-secondary-content: rgb(255, 255, 255);
   --tp-map-georeference: rgb(239, 68, 68);
   --tp-map-aggregate: rgb(3, 115, 22);
