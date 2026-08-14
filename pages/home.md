@@ -1,5 +1,5 @@
 <div class="w-full">
-  <div class="relative -mt-4 mx-[calc(50%-50vw)] w-screen bg-cover bg-center flex items-center h-[calc(100svh-56px)] min-h-[350px]" style="background-image: url('portada.jpeg');">
+  <div class="relative -mt-6 mx-[calc(50%-50vw)] w-screen bg-cover bg-center flex items-center h-[calc(100svh-56px)] min-h-[350px]" style="background-image: url('portada.jpeg');">
     <div class="absolute inset-0 bg-black/40"></div>
     <div class="absolute inset-0 z-10 grid place-items-center text-center px-4">
       <div>
@@ -71,10 +71,13 @@ Está abierto a la contribución por parte de cualquier persona que tenga regist
 
 </div>
 
-<div style="margin: auto; background-color: #F7F7F7; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4em; margin: 4em 0;">
+<div style="margin: auto; background-color: #f8fafc; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4em; margin: 4em 0;">
   <img src="/logo-cepave.png" alt="Centro de Estudios de Parasitológicos y de Vectores" style="height: 150px;"/>
   <img src="/logo-texas.png" alt="Texas A&M College of Veterinary Medicine & Biomedical Sciences" style="height: 150px;"/>
   <img src="/logo-unb.png" alt="UnB" style="height: 150px;"/>
   <img src="/logo-cinvestav.png" alt="Cinvestav" style="height: 150px;"/>
-  <img src="/logo-FioCruz-Minas.jpeg" alt="FioCruz Minas" style="height: 50px;"/>
+  <img src="/logo-ird.png" alt="CAMBIAR" style="height: 150px;"/>
+  <img src="/logo-cir.png" alt="CAMBIAR" style="height: 150px;"/>
+  <img src="/logo-uni-chile.png" alt="Facultad de Ciencias - Universidad de Chile" style="height: 150px;"/>
+  <img src="/logo-FioCruz-Minas.png" alt="FioCruz Minas" style="height: 150px;"/>
 </div>
