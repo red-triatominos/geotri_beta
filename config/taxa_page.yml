@@ -24,6 +24,7 @@ taxa_page:
               parameters:
                 taxon_id: 48959 # Reduviidae
                 licensed: true
+                photo_licensed: true
               title: 'iNaturalist observations'
               qualityGrade: research
               thumbnailSize: medium
