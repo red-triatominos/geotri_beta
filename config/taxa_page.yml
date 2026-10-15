@@ -22,10 +22,11 @@ taxa_page:
       - - - id: panel:inaturalist
             bind:
               taxon_id: 48959 # Reduviidae
-              title: 'iNaturalist occurrences'
+              title: 'iNaturalist observations'
               qualityGrade: research
               thumbnailSize: medium
               perPage: 30
               columnsMobile: auto
               columnsDesktop: auto
               showImageCount: true
+              licensed: true
