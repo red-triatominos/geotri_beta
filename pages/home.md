@@ -89,5 +89,6 @@ Está abierto a la contribución por parte de cualquier persona que tenga regist
   <img src="/logo-ird.png" alt="IRD" style="height: 150px;"/>
   <img src="/logo-cir.png" alt="CIR" style="height: 150px;"/>
   <img src="/logo-uni-chile.png" alt="Facultad de Ciencias - Universidad de Chile" style="height: 150px;"/>
+  <img src="/logo-ciseal.png" alt="CISeAL" style="height: 150px;"/>
   <img src="/logo-FioCruz-Minas.png" alt="FioCruz Minas" style="height: 150px;"/>
 </div>
