@@ -43,7 +43,16 @@ Está abierto a la contribución por parte de cualquier persona que tenga regist
     <ul>
       <li>Rodrigo Gurgel Goncalves - Universidade de Brasília</li>
       <li>Cleber Galvão - Instituto Oswaldo Cruz, Fiocruz</li>
+      <li>Rita de Cassia Moreira de Souza - Fiocruz Minas</li>
     </ul>
+    <h3>CHILE</h3>
+    <ul>
+      <li>Carezza Botto - Universidad de Chile</li>
+    </ul>    
+    <h3>ECUADOR</h3>
+    <ul>
+      <li>Anita Villacís - PUCE, CISeAL</li>
+    </ul>    
     <h3>COLOMBIA</h3>
     <ul>
       <li>Gabriel Jaime Parra Henao - Universidad Cooperativa de Colombia - Grupo CIST</li>
@@ -56,6 +65,7 @@ Está abierto a la contribución por parte de cualquier persona que tenga regist
     <h3>MÉXICO</h3>
     <ul>
       <li>Carlos Ibarra Cerdeña, Centro de Investigación y de Estudios Avanzados (Cinvestav)</li>
+      <li>Etienne Waleckx - Centro de Investigaciones Regionales “Dr. Hideyo Noguchi” UADY, IRD</li>
     </ul>
     <h2>Desarrollador</h2>
     <ul>
@@ -76,8 +86,8 @@ Está abierto a la contribución por parte de cualquier persona que tenga regist
   <img src="/logo-texas.png" alt="Texas A&M College of Veterinary Medicine & Biomedical Sciences" style="height: 150px;"/>
   <img src="/logo-unb.png" alt="UnB" style="height: 150px;"/>
   <img src="/logo-cinvestav.png" alt="Cinvestav" style="height: 150px;"/>
-  <img src="/logo-ird.png" alt="CAMBIAR" style="height: 150px;"/>
-  <img src="/logo-cir.png" alt="CAMBIAR" style="height: 150px;"/>
+  <img src="/logo-ird.png" alt="IRD" style="height: 150px;"/>
+  <img src="/logo-cir.png" alt="CIR" style="height: 150px;"/>
   <img src="/logo-uni-chile.png" alt="Facultad de Ciencias - Universidad de Chile" style="height: 150px;"/>
   <img src="/logo-FioCruz-Minas.png" alt="FioCruz Minas" style="height: 150px;"/>
 </div>
